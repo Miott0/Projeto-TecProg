@@ -1,0 +1,377 @@
+Pepi II,Egyptian pharaoh of the Sixth dynasty for the Old Kingdom,Male,Ancient Egypt,Statesperson,-2284,-2200
+Ramesses II,Egyptian pharaoh of the Nineteenth Dynasty of Egypt,Male,Ancient Egypt,Statesperson,-1303,-1213
+Ramesses III,Egyptian pharaoh,Male,Ancient Egypt,Sovereign,-1217,-1155
+Ramesses IV,the third pharaoh of the Twentieth Dynasty of the New Kingdom of Ancient Egypt,Male,Ancient Egypt,Statesperson,-1200,-1149
+Ramesses V,pharaoh in the ancient Egypt,Male,Ancient Egypt,Sovereign,-1200,-1145
+Ramesses VI,fifth ruler of the Twentieth dynasty of Egypt,Male,Ancient Egypt,Sovereign,-1175,-1136
+Ramesses X,ninth ruler of the 20th dynasty of Ancient Egypt,Male,Egypt; Ancient Egypt,Sovereign,-1150,-1098
+Ramesses IX,Egyptian pharaoh of the 20th dynasty,Male,Ancient Egypt,Sovereign,-1150,-1111
+Ramesses VII,Ancient Egyptian sixth pharaoh of the 20th dynasty,Male,Ancient Egypt,Sovereign,-1150,-1129
+Socrates,ancient Greek philosopher,Male,Classical Athens,Philosopher,-470,-399
+Plato,ancient Greek philosopher,Male,Classical Athens,Artist,-427,-347
+Aristotle,ancient Greek philosopher,Male,,Philosopher,-384,-322
+Seleucus II Callinicus,ruler of the Seleucid Empire,Male,Seleucid Empire,Sovereign,-265,-225
+Seleucus III Ceraunus,ruler of the Seleucid Kingdom,Male,Seleucid Empire,Sovereign,-243,-223
+Antiochus III the Great,Seleucid ruler,Male,Seleucid Empire,Sovereign,-241,-187
+Antiochus IV Epiphanes,ruler of the Seleucid Empire,Male,Seleucid Empire,Aristocrat,-215,-164
+Ptolemy VIII Physcon,an Egyptian king from the second century BC,Male,,Sovereign,-182,-116
+Ptolemy IX Lathyros,king of Egypt,Male,,Sovereign,-142,-80
+Ptolemy X Alexander I,King of Egypt,Male,,Sovereign,-140,-88
+Cleopatra,last active pharaoh of Ptolemaic Egypt,Female,Ancient Egypt,Sovereign,-69,-30
+Charles Martel,Frankish military and political leader,Male,Francia,Military personnel,688,741
+Li Bai,Chinese poet,Male,Tang Empire,Artist,701,762
+Abu Nuwas,Iraqi poet,Male,Abbasid Caliphate,Artist,756,814
+Emperor Taizu of Liao,Emperor of the Khitans and founder of the Liao dynasty (872-926),Male,Liao dynasty,Aristocrat,872,926
+Emperor Taizong of Liao,Emperor of the Liao dynasty (902-947) (r.927-947),Male,Liao dynasty,Aristocrat,902,947
+Emperor Shizong of Liao,emperor of the Liao Dynasty,Male,Liao dynasty,Aristocrat,919,951
+Emperor Muzong of Liao,emperor of the Liao Dynasty,Male,Liao dynasty,Aristocrat,931,969
+Emperor Jingzong of Liao,Liao Dynasty emperor,Male,Liao dynasty,Aristocrat,948,982
+Emperor Shengzong of Liao,emperor of the Liao Dynasty,Male,Liao dynasty,Aristocrat,972,1031
+Emperor Xingzong of Liao,emperor of the Liao Dynasty,Male,Liao dynasty,Aristocrat,1016,1055
+Emperor Daozong of Liao,emperor of the Liao Dynasty,Male,Liao dynasty,Aristocrat,1032,1101
+Fulcher of Chartres,chronicler of the First Crusade,Male,France,Researcher,1059,1127
+Albert of Aix,historian of the First Crusade,Male,France,Researcher,1060,1120
+Emperor Taizu of Jin,Jin Dynasty emperor,Male,Liao dynasty; Jin dynasty,Condottiero,1068,1123
+William IX,Duke of Aquitaine and Gascony and Count of Poitou,Male,France,Artist,1071,1126
+Emperor Taizong of Jin,emperor of the Jin Dynasty (1075–1135) (r. 1123-1135),Male,,Aristocrat,1075,1135
+Emperor Tianzuo of Liao,emperor of the Liao Dynasty,Male,Liao dynasty,Aristocrat,1075,1128
+Theobald of Étampes,schoolmaster and theologian,Male,France,Religious figure,1080,1120
+Alberich of Reims,Archbishop of Bourges,Male,France,Religious figure,1085,1141
+Robert the Monk,chronicler of the First Crusade,Male,Netherlands; France,Researcher,1090,1122
+Hugh Primas,Latin lyric poet,Male,France,Artist,1095,1160
+Wace,Norman writer from Jersey,Male,France,Researcher,1100,1174
+Hugh of Fouilloy,French cleric,Male,France,Artist,1100,1174
+Odo of Deuil,historian and participant of the Second Crusade,Male,France,Researcher,1110,1162
+Alain de Lille,French theologian and poet,Male,Kingdom of France,Artist,1117,1202
+Emperor Xizong of Jin,emperor of the Jin Dynasty (1115–1234),Male,Jin dynasty,Aristocrat,1119,1150
+Emperor Hailingwang of Jin,emperor of the Jin Dynasty (1115–1234),Male,Jin dynasty,Aristocrat,1122,1161
+Emperor Shizong of Jin,emperor of the Jin Dynasty (1115–1234),Male,Jin dynasty,Aristocrat,1123,1189
+Jaufre Rudel,Prince of Blaye and troubadour,Male,France,Artist,1125,1148
+Gautier d'Arras,Flemish or French trouvère,Male,France,Artist,1135,1189
+Chrétien de Troyes,12th century French poet and trouvère,Male,France,Artist,1135,1181
+Walter of Châtillon,12th-century French writer and theologian,Male,France,Artist,1135,1201
+Bertran de Born,Occitan troubadours,Male,France,Artist,1140,1215
+Beatritz de Dia,female troubadour,Female,France,Artist,1140,1225
+Peire Vidal,troubadour,Male,France,Artist,1140,1205
+Geoffrey of Villehardouin,knight and historian,Male,France,Researcher,1150,1210
+Arnaut Daniel,Occitan troubadour,Male,France,Artist,1150,1210
+John of Hauville,moralist and satirical poet,Male,France,Artist,1150,1199
+Andreas Capellanus,12th-century author,Male,France,Artist,1150,1220
+Lambert of Ardres,French twelfth century chronicler,Male,France,Researcher,1160,1227
+Gilles de Paris,French poet,Male,France,Artist,1160,1224
+Genghis Khan,founder and first khan of the Mongol Empire,Male,Mongol Empire,Military personnel,1162,1227
+Emperor Xuanzong of Jin,emperor of the Jin Dynasty (1115–1234),Male,Jin dynasty,Aristocrat,1163,1224
+Jean Bodel,Old French poet,Male,France,Artist,1165,1210
+Emperor Zhangzong of Jin,Emperor of the Jin Dynasty (1168–1208),Male,Jin dynasty,Artist,1168,1208
+Wanyan Yongji,Jin dynasty emperor,Male,Jin dynasty,Aristocrat,1168,1213
+Gui de Cambrai,medieval writer,Male,France,Artist,1170,1248
+Maria de Ventadorn,patron of troubadour poetry,Female,France,Artist,1180,1222
+Emperor Aizong of Jin,emperor of the Jin Dynasty (1115–1234),Male,,Aristocrat,1198,1234
+Aimeric de Peguilhan,Occitan troubadour,Male,France,Artist,1200,1228
+Emperor Modi of Jin,emperor of the Jin Dynasty (1115–1234),Male,Jin dynasty,Aristocrat,1201,1234
+Louis IX of France,king of France,Male,France,Ruler,1214,1270
+Marco Polo,Venetian explorer and merchant noted for travel to central and eastern Asia,Male,Republic of Venice,Artist,1254,1324
+Dante Alighieri,Italian poet (1265–1321),Male,Republic of Florence,Artist,1265,1321
+Edward II of England,King of England; born in Caernarfon,Male,Wales; Kingdom of England,Aristocrat,1284,1327
+Petrarch,Italian scholar and poet,Male,,Artist,1304,1374
+Giovanni Boccaccio,Italian author and poet,Male,,Artist,1313,1375
+Hafez,Persian poet and mystic,Male,Muzaffarids of Iran,Artist,1326,1389
+Geoffrey Chaucer,14th century English poet and author,Male,Kingdom of England,Researcher,1343,1400
+Klaus Störtebeker,leader of privateers,Male,Holy Roman Empire,Privateer; pirate,1360,1401
+Andrei Rublev,medieval Russian artist,Male,Grand Duchy of Moscow,Artist,1360,1428
+Thomas of Metsoph,Armenian cleric and chronicler,Male,,Researcher,1378,1446
+Francesco Filelfo,Italian Renaissance humanist,Male,March of Ancona,Artist,1398,1481
+Fra Angelico,Early Italian Renaissance painter (1400-1455),Male,Italiana,Artist,1400,1455
+Masaccio,Italian painter (1401-1428),Male,,Artist,1401,1428
+Piero della Francesca,Italian painter (c. 1416-1492),Male,,Researcher,1415,1492
+Jan I Carondelet,Burgundian jurist and politician,Male,Burgundian Netherlands,Politician,1428,1502
+Antonello da Messina,Italian Renaissance painter (1430-1479),Male,Kingdom of Sicily,Artist,1430,1479
+Andrea Mantegna,Italian Renaissance painter (1431-1506),Male,Italy,Artist,1431,1506
+François Villon,French poet and criminal,Male,Kingdom of France,Artist,1431,1463
+Sandro Botticelli,Italian painter (1445-1510),Male,,Artist,1445,1510
+Pietro Perugino,Italian Renaissance painter of the Umbrian school (1448-1523),Male,,Artist,1448,1523
+Luca Signorelli,Italian Renaissance painter (c.1450-1523),Male,,Artist,1450,1523
+Leonardo da Vinci,Italian Renaissance polymath (1452-1519),Male,Republic of Florence,Researcher,1452,1519
+Mary Stewart,Scottish princess,Female,Kingdom of Scotland,Aristocrat,1453,1488
+Pinturicchio,Italian painter (1454-1513),Male,,Artist,1454,1513
+Vittore Carpaccio,Italian painter (1465-1526),Female,Republic of Venice,Artist,1465,1526
+Claude I Carondelet,chancellor of Flanders and Burgundy,Male,France,Aristocrat,1467,1518
+Ferdinand Magellan,Portuguese explorer in the service of Spain,Male,Kingdom of Portugal,Explorer,1480,1521
+Raphael,Italian painter and architect (1483-1520),Male,,Artist,1483,1520
+Andrea del Sarto,Italian painter (1486-1530),Male,Republic of Florence,Artist,1486,1530
+Luís de Camões,Portuguese poet,Male,,Artist,1524,1580
+John Hamilton,Scottish nobleman (1537-1604),Male,Kingdom of Scotland,Politician,1537,1604
+Simon Lohet,Flemish composer and organist,Male,Belgium,Artist,1550,1611
+William Shakespeare,English playwright and poet,Male,Kingdom of England,Playwright,1564,1616
+Peter Paul Rubens,Flemish artist and diplomat (1577-1640),Male,Spanish Netherlands,Artist,1577,1640
+Lady Ann Cunningham,Scottish noblewoman,Female,Kingdom of Scotland,Resistance fighter,1580,1646
+Diego Velázquez,Spanish painter (1599-1660),Male,Spain,Artist,1599,1660
+Pierre Corneille,French tragedian,Male,Kingdom of France,Artist,1606,1684
+Rembrandt,Dutch painter and etcher (1606-1669),Male,Dutch Republic,Artist,1606,1669
+Molière,French playwright and actor,Male,Kingdom of France,Artist,1622,1673
+Jean-Baptiste Lully,Italian-born French composer,Male,Kingdom of France; Grand Duchy of Tuscany,Artist,1632,1687
+Francis van Bossuit,Flemish sculptor,Male,Southern Netherlands,Artist,1635,1692
+Jean Racine,French dramatist,Male,Kingdom of France,Researcher,1639,1699
+Isaac Newton,British physicist and mathematician,Male,Kingdom of Great Britain; Kingdom of England,Researcher,1642,1727
+Matsuo Bash�?,Japanese poet,Male,Japan,Artist,1644,1694
+Antonio Vivaldi,Italian composer and violinist,Male,Republic of Venice,Artist,1678,1741
+Jean-Philippe Rameau,French Baroque composer and music theorist,Male,Kingdom of France,Artist,1683,1764
+Johann Sebastian Bach,German composer and musician of the Baroque era,Male,Holy Roman Empire; Saxe-Eisenach,Artist,1685,1750
+Bartolomeo Coghetto,Italian painter and musician,Male,,Artist,1707,1793
+Julien Offray de La Mettrie,French physician and philosopher,Male,France,Artist,1709,1751
+Claude Bourgelat,French veterinary surgeon,Male,Kingdom of France,Artist,1712,1779
+Denis Diderot,French Enlightenment philosopher and encyclopædist,Male,France; Kingdom of France,Researcher,1713,1784
+Pierre Poivre,French horticulturalist (1719-1786),Male,Kingdom of France,Researcher,1719,1786
+Francis Coventry,English novelist,Male,Kingdom of Great Britain,Artist,1725,1754
+George Washington,1st president of the United States (1732–1799),Male,United States of America; Kingdom of Great Britain,Politician,1732,1799
+Franciszek Karpiński,Polish poet,Male,Russian Empire; Polish–Lithuanian Commonwealth,Artist,1741,1825
+Francisco Goya,18th and 19th-century Spanish painter and printmaker (1746-1828),Male,Spain,Artist,1746,1828
+Wolfgang Amadeus Mozart,Austrian composer of the Classical period,Male,Archduchy of Austria; Archbishopric of Salzburg,Artist,1756,1791
+Antonio Canova,Italian sculptor from the Republic of Venice who became famous for his marble sculptures that delicately rendered nude flesh,Male,Republic of Venice,Artist,1757,1822
+Etienne-Barthélémy Garnier,French painter (1759-1849),Male,France,Artist,1759,1849
+Isabella Teotochi Albrizzi,Italian author,Female,Republic of Venice,Artist,1760,1836
+Katsushika Hokusai,Japanese artist (1760-1849),Male,Japan,Artist,1760,1849
+Pius VIII,Pope (1829-30),Male,,Religious figure,1761,1830
+Laurent Mourguet,French puppeteer,Male,France,Puppeteer,1769,1844
+Napoleon,French general and emperor (1769-1821),Male,France,Politician,1769,1821
+Ludwig van Beethoven,German classical and romantic composer,Male,Holy Roman Empire; Austrian Empire,Artist,1770,1827
+André-Marie Ampère,French physicist and mathematician,Male,France,Researcher,1775,1836
+Carl Friedrich Gauss,German mathematician and physicist,Male,German Confederation; Confederation of the Rhine; Kingdom of Hanover,Researcher,1777,1855
+Stendhal,19th century French writer,Male,France,Artist,1783,1842
+Alessandro Manzoni,Italian poet and novelist (1785-1873),Male,Kingdom of Sardinia; Kingdom of Italy,Artist,1785,1873
+Francisco Antonio Pinto,Chilean politician and President (1785-1858),Male,Chile,Politician,1785,1858
+François-Édouard Picot,French painter (1786-1868),Male,France,Artist,1786,1868
+John Franklin,English naval officer and Arctic explorer,Male,Kingdom of Great Britain; United Kingdom of Great Britain and Ireland,Explorer,1786,1847
+Wilhelm Grimm,German author,Male,Germany; Kingdom of Prussia; Landgraviate of Hesse-Kassel,Researcher,1786,1859
+Ramón Freire,Chilean politician (1787-1851),Male,Chile,Politician,1787,1851
+Lord Byron,English poet and leading figure in the Romantic movement,Male,Kingdom of Great Britain; United Kingdom of Great Britain and Ireland,Artist,1788,1824
+Georg Simon Ohm,hola solo quiero coger con una mujer,Male,Germany; Kingdom of Bavaria,Researcher,1789,1854
+Manuel Blanco Encalada,Chilean politician and President (1790-1876),Male,Argentina,Politician,1790,1876
+Jean-François Champollion,French classical scholar,Male,Kingdom of France; First French Empire,Egyptologist,1790,1832
+Adolphe Thiers,President of the French Republic (1797-1877),Male,France,Researcher,1797,1877
+Charles Lyell,British lawyer and geologist,Male,United Kingdom of Great Britain and Ireland,Researcher,1797,1875
+Pedro I of Brazil,first Emperor of Brazil (1798-1834),Male,Kingdom of Portugal; Empire of Brazil,Artist,1798,1834
+Karl Bryullov,Russian painter (1799-1852),Male,Russian Empire,Artist,1799,1852
+Manuel Bulnes,Chilean politician and President (1799-1866),Male,Chile,Politician,1799,1866
+Henry P. Alexander,U.S. Representative (1801-1867),Male,United States of America,Politician,1801,1867
+José Joaquín Pérez,Chilean politician and President (1801-1889),Male,Chile,Politician,1801,1889
+Hector Berlioz,French Romantic composer,Male,France,Artist,1803,1869
+George Sand,French novelist and memoirist; pseudonym of Lucile Aurore Dupin,Female,France,Artist,1804,1876
+Abraham Lincoln,16th president of the United States (1809-1865),Male,United States of America,Politician,1809,1865
+Manuel Montt,Chilean politician and President (1809-1880),Male,Chile,Politician,1809,1880
+Frédéric Chopin,Polish composer and pianist,Male,Poland,Artist,1810,1849
+Charles Dickens,English writer and social critic,Male,United Kingdom of Great Britain and Ireland,Artist,1812,1870
+Richard Wagner,German composer and conductor,Male,Germany,Artist,1813,1883
+Fyodor Dostoyevsky,Russian author,Male,Russian Empire,Artist,1821,1881
+Philipp Ludwig von Seidel,German mathematician,Male,German Empire; German Confederation,Researcher,1821,1896
+Marie-Jean-Léon d'Hervey de Saint Denys,French sinologist,Male,France,Researcher,1822,1892
+Louis Pasteur,French chemist and microbiologist,Male,France,Researcher,1822,1895
+Hubert Salentin,German painter (1822-1910),Male,German Empire,Artist,1822,1910
+Aníbal Pinto,Chilean politician and President (1825-1884),Male,Chile,Politician,1825,1884
+Federico Errázuriz Zañartu,Chilean politician (1825-1877),Male,Chile,Politician,1825,1877
+Domingo Santa María,Chilean politician and President (1825-1889),Male,Chile,Researcher,1825,1889
+John Gregg,American politician (1828-1864),Male,United States of America; Confederate States of America,Politician,1828,1864
+Emily Dickinson,American poet,Female,United States of America,Artist,1830,1886
+Luigi Bailo,Italian abbot,Male,Kingdom of Italy,Religious figure,1835,1932
+Ramón Barros Luco,Chilean politician and President (1835-1919),Male,Chile,Politician,1835,1919
+Francis Marrash,Syrian writer and poet,Male,Ottoman Empire,Artist,1836,1873
+Émile Zola,French writer,Male,France,Artist,1840,1902
+José Manuel Balmaceda,Chilean politician and President (1840-1891),Male,Chile,Politician,1840,1891
+Claude Monet,French impressionist painter (1840-1926),Male,France,Artist,1840,1926
+Stéphane Mallarmé,French Symbolist poet,Male,France,Artist,1842,1898
+Paul Verlaine,French poet,Male,France,Artist,1844,1896
+Sarah Bernhardt,French actress,Female,France,Artist,1844,1923
+Aníbal Zañartu,Chilean politician and Vice President (1847-1902),Male,Chile,Politician,1847,1902
+Elisha E. Meredith,U.S. Representative (1848-1900),Male,United States of America,Politician,1848,1900
+Birger Kildal,Norwegian politician (1849-1913),Male,Norway,Politician,1849,1913
+Pedro Montt,Chilean politician and President (1849-1910),Male,Chile,Politician,1849,1910
+Federico Errázuriz Echaurren,President of Chile (1850-1901),Male,Chile,Politician,1850,1901
+Conrad Wahn,German architect,Male,Germany,Architect,1851,1927
+Anthony Sweijs,Dutch sports shooter (1852-1937),Male,Kingdom of the Netherlands,Athlete,1852,1937
+Vincent van Gogh,Dutch post-impressionist painter (1853–1890),Male,Netherlands,Artist,1853,1890
+Paul von Rennenkampf,Russian general,Male,Russian Empire,Military personnel,1854,1918
+Germán Riesco,Chilean politician and President (1854-1916) chupalo,Male,Chile,Politician,1854,1916
+Benedict XV,258th Pope of the Catholic Church,Male,Kingdom of Italy,Religious figure,1854,1922
+Philippe Pétain,French military and political leader (1856-1951),Male,France,Politician,1856,1951
+Jean-Jacques Kieffer,French naturalist and entomologist (1857-1925),Male,France,Researcher,1857,1925
+Jenő �?bel,professor,Male,Hungary,Teacher,1858,1889
+Juan Luis Sanfuentes,Chilean politician and President (1858-1930),Male,Chile,Politician,1858,1930
+Wilhelm II,German Emperor and King of Prussia,Male,Kingdom of Prussia; German Empire,Statesperson,1859,1941
+Chris Hooijkaas,Dutch sailor,Male,Kingdom of the Netherlands,Sailor,1861,1926
+Marcus Ravenswaaij,Dutch sport shooter,Male,Kingdom of the Netherlands,Athlete,1862,1919
+Claude Debussy,French composer,Male,French Third Republic; Second French Empire,Artist,1862,1918
+Federico Gamboa,Mexican author and diplomat (1864-1939),Male,Mexico,Artist,1864,1939
+Frank Lloyd Wright,American architect (1867-1959),Male,United States of America,Architect,1867,1959
+Charles Maurras,French author and poet (1868-1952),Male,France,Artist,1868,1952
+Ivan Regen,Slovenian biologist,Male,Austria-Hungary,Researcher,1868,1947
+Arturo Alessandri,Chilean politician and President,Male,Chile,Politician,1868,1950
+Tony Garnier,French architect,Male,France,Architect,1869,1948
+Mahatma Gandhi,pre-eminent leader of Indian nationalism during the British Raj (1869-1948),Male,British Raj; Dominion of India,Artist,1869,1948
+Henri Matisse,French artist,Male,France,Artist,1869,1954
+Sigfrid Edström,Swedish industrialist and International Olympic Committee official (1870-1964),Male,Sweden,Athlete,1870,1964
+Roald Amundsen,Norwegian explorer; first person to reach the South Pole,Male,Norway,Researcher,1872,1928
+Luigi Einaudi,2nd President of Italy (1874-1961),Male,Italy; Kingdom of Italy,Researcher,1874,1961
+Maurice Ravel,French composer,Male,France,Artist,1875,1937
+Fran Jesenko,Slovene botanist and geneticist (1875-1932),Male,Austria-Hungary; Kingdom of Yugoslavia,Researcher,1875,1932
+Anna de Noailles,Romanian-French writer (1876-1933),Female,France,Artist,1876,1933
+Pius XII,260th Pope of the Catholic Church,Male,Italy; Kingdom of Italy,Politician,1876,1958
+Enrico de Nicola,1st President of Italy (1877-1959),Male,Italy; Kingdom of Italy,Politician,1877,1959
+Carlos Ibáñez del Campo,Chilean army officer and political figure (1877-1960),Male,Chile,Politician,1877,1960
+Ernst Mielck,Finnish composer,Male,Grand Duchy of Finland,Artist,1877,1899
+Paul Otto,German film actor and director,Male,Nazi Germany; Weimar Republic; German Empire,Artist,1878,1943
+Manuel L. Quezon,Second President of the Philippines from 1935 to 1944,Male,Philippines,Politician,1878,1944
+Miles Franklin,Australian writer and feminist,Female,Austria; Australia,Artist,1879,1954
+Pedro Aguirre Cerda,Chilean politician and President (1879-1941),Male,Chile,Politician,1879,1941
+Albert Einstein,German-born theoretical physicist; developer of the theory of relativity (1879–1955),Male,United States of America; Switzerland; Austria-Hungary; Weimar Republic; German Empire,Researcher,1879,1955
+Mustafa Kemal Atatürk,Founding father of the Turkish nation state (1881-1938),Male,Turkey; Ottoman Empire,Politician,1881,1938
+Margaret Wycherly,English stage and film actress,Female,United Kingdom,Artist,1881,1956
+Pablo Picasso,Spanish artist (1881-1973),Male,Spain,Artist,1881,1973
+James Joyce,Irish novelist and poet,Male,Ireland,Artist,1882,1941
+Yanka Kupala,Belarusian writer (1882-1942),Male,Byelorussian Soviet Socialist Republic; Russian Empire; Belarusian People's Republic,Artist,1882,1942
+Franz Kafka,Bohemian novelist and short story writer,Male,Austria-Hungary; Czechoslovakia,Artist,1883,1924
+Theodor Heuss,German politician (1884-1963),Male,Germany,Politician,1884,1963
+Jovan Hadži,Slovene zoologist of Serbian descent,Male,Austria-Hungary; Socialist Federal Republic of Yugoslavia; Kingdom of Yugoslavia,Researcher,1884,1972
+Niels Bohr,Danish physicist (1885-1962),Male,Denmark,Athlete,1885,1962
+Marcel Duchamp,French painter and sculptor,Male,United States of America; France,Athlete,1887,1968
+Giovanni Gronchi,3rd President of Italy (1887-1978),Male,Italy; Kingdom of Italy,Politician,1887,1978
+Paul Morand,French writer,Male,France,Artist,1888,1976
+Juan Antonio Rios,Chilean politician and President (1888-1946),Male,Chile,Politician,1888,1946
+Charlie Chaplin,British comic actor and filmmaker (1889-1977),Male,United Kingdom,Artist,1889,1977
+Konstantin Melnikov,Russian architect and painter (1890-1974),Male,Soviet Union; Russian Empire,Artist,1890,1974
+Charles de Gaulle,eighteenth President of the French Republic (1890-1970),Male,France,Politician,1890,1970
+Antonio Segni,4th President of Italy (1891-1972),Male,Italy; Kingdom of Italy,Politician,1891,1972
+Mikhail Bulgakov,Russian author,Male,Soviet Union; Russian Empire,Artist,1891,1940
+J. R. R. Tolkien,British philologist and author of classic high fantasy works,Male,United Kingdom,Researcher,1892,1973
+Walter Ulbricht,German politician (1893-1973),Male,German Democratic Republic,Politician,1893,1973
+Mao Zedong,Chairman of the Central Committee of the Communist Party of China (1893-1966),Male,People's Republic of China; Qing dynasty; Republic of China (1912–1949),Artist,1893,1976
+Heinrich Lübke,German politician (1894-1972),Male,Germany,Politician,1894,1972
+Trygve Lie,1st Secretary-General of the United Nations (1896-1968),Male,Norway,Politician,1896,1968
+Marcel Doret,French aviator,Male,France,Military personnel,1896,1955
+Sandro Pertini,7th President of Italy (1896-1990),Male,Italy; Kingdom of Italy,Politician,1896,1990
+Italo Balbo,Italian Marshal of the Air Force and minister (1896-1940),Male,Kingdom of Italy,Politician,1896,1940
+Elsa Triolet,French writer,Female,France; Russian Empire,Artist,1896,1970
+Jorge Alessandri,Chilean politician and President (1896-1986),Male,Chile,Politician,1896,1986
+Ludwig Erhard,Chancellor of West Germany (1963–1966),Male,Germany,Politician,1897,1977
+Amelia Earhart,American aviation pioneer and author,Female,United States of America,Artist,1897,1937
+Gabriel Gonzáles Videla,Chilean politician (1898-1980),Male,Chile,Politician,1898,1980
+George Zorab,Dutch parapsychologist,Male,,Researcher,1898,1990
+Giuseppe Saragat,5th President of Italy (1898-1988),Male,Italy; Kingdom of Italy,Politician,1898,1988
+M. C. Escher,Dutch graphic artist (1898-1972),Male,Kingdom of the Netherlands,Artist,1898,1972
+Friedrich Hayek,Austrian and British economist,Male,Austria; United Kingdom,Researcher,1899,1992
+Jean Moulin,French resistance fighter and civil servant,Male,France,Official; french resistance fighter,1899,1943
+Carlos Pellicer,modernist Mexican poet,Male,Mexico,Researcher,1899,1977
+Antoine de Saint-Exupéry,French writer and aviator,Male,France,Artist,1900,1944
+Gladwyn Jebb,acting Secretary-General of the United Nations (1900-1996),Male,United Kingdom; United Kingdom of Great Britain and Ireland,Politician,1900,1996
+Marlene Dietrich,German-American actress and singer (1901-1992),Female,United States of America; Nazi Germany; Weimar Republic; German Empire,Artist,1901,1992
+Adriaan Paulen,Dutch athlete and president of the IAAF (1902-1985),Male,Kingdom of the Netherlands,Athlete,1902,1985
+George Orwell,English author and journalist,Male,United Kingdom; United Kingdom of Great Britain and Ireland,Artist,1903,1950
+Adolf Butenandt,German biochemist (1939 Nobel Prize),Male,Germany; German Reich,Researcher,1903,1995
+Amy Johnson,pioneering English aviator,Female,United Kingdom; United Kingdom of Great Britain and Ireland,Military personnel,1903,1941
+Hubert Clifford,Australian-born British composer and conductor,Male,United Kingdom; United Kingdom of Great Britain and Ireland,Artist,1904,1959
+Salvador Dalí,Spanish artist (1904-1989),Male,Spain,Artist,1904,1989
+František Pláni�?ka,Czech association football player (1904-1996),Male,Czech Republic; Czechoslovakia,Athlete,1904,1996
+Greta Garbo,Swedish-American actress (1905-1990),Female,United States of America; Sweden,Artist,1905,1990
+Jacqueline Cochran,American aviator and businesswoman (1906-1980),Female,United States of America,Politician,1906,1980
+Giuseppe Farina,Italian racecar driver,Male,Italy; Kingdom of Italy,Racing automobile driver,1906,1966
+Frida Kahlo,Mexican painter,Female,Mexico,Artist,1907,1954
+Giovanni Leone,6th President of Italy (1908-2001),Male,Italy; Kingdom of Italy,Politician,1908,2001
+John Bardeen,American physicist and engineer,Male,United States of America,Researcher,1908,1991
+Salvador Allende,28th president of Chile (1908–1973),Male,Chile,Politician,1908,1973
+Edward Teller,Hungarian-American nuclear physicist,Male,Hungary; United States of America; Austria-Hungary,Researcher,1908,2003
+Robert Brasillach,French author and journalist (1909-1945),Male,France,Artist,1909,1945
+Anton Polenec,Slovene zoologist,Male,Slovenia; Austria-Hungary; Socialist Federal Republic of Yugoslavia; Kingdom of Yugoslavia,Researcher,1910,2000
+Georges Pompidou,19th President of the French Republic (1911-1974),Male,France,Politician,1911,1974
+Bernard Katz,German-born British biophysicist,Male,United Kingdom; Germany; United Kingdom of Great Britain and Ireland,Researcher,1911,2003
+Juan Manuel Fangio,Argentinian racing driver,Male,Argentina,Entrepreneur,1911,1995
+Ernst Tiburzy,German Volkssturm-Bataillonsführer,Male,Germany,Military personnel,1911,2004
+Eduardo Frei Montalva,President of Chile (1911-1982),Male,Chile,Politician,1911,1982
+Woody Guthrie,American singer-songwriter and folk musician,Male,United States of America,Artist,1912,1967
+Aleksandr Kanaki,Soviet athlete,Male,Ukraine; Soviet Union; Russian Empire,Hammer thrower,1912,1995
+Erich Honecker,German politician (1912-1994),Male,German Democratic Republic; Weimar Republic; German Empire; Saar,Politician,1912,1994
+Louis de Funès,French actor and comedian,Male,France,Artist,1914,1983
+Willi Stoph,East German politician (1914-1999),Male,Germany; German Democratic Republic,Politician,1914,1999
+Karl Carstens,President of the Federal Republic of Germany (1914-1992),Male,Germany,Politician,1914,1992
+Édith Piaf,French singer,Female,France,Artist,1915,1963
+François Mitterrand,21st President of the French Republic (1916-1996),Male,France,Politician,1916,1996
+Indira Gandhi,Indian Prime Minister and politician (1917-1984),Female,India; British Raj,Politician,1917,1984
+Ella Fitzgerald,American jazz singer,Female,United States of America,Artist,1917,1996
+Ferdinand Marcos,former president of the Philippines from 1965 to 1986,Male,Philippines,Politician,1917,1989
+Patricio Aylwin,Chilean politician and former president (1918-2016),Male,Chile,Politician,1918,2016
+Oscar Luigi Scalfaro,9th President of Italy (1918-2012),Male,Italy; Kingdom of Italy,Politician,1918,2012
+Alberto Ascari,Italian racing driver,Male,Italy; Kingdom of Italy,Motorcycle racer; formula one driver,1918,1955
+Ante Bilobrk,national hero of Yugoslavia,Male,,,1919,1943
+Walter Scheel,President of West Germany (1974-1979),Male,Germany,Politician,1919,2016
+Ernest Mayer,Slovene botanist (1920-2009),Male,Slovenia; Socialist Federal Republic of Yugoslavia; Kingdom of Yugoslavia,Researcher,1920,2009
+Carlo Azeglio Ciampi,10th President of Italy,Male,Italy; Kingdom of Italy,Politician,1920,2016
+John Paul II,264th pope of the Catholic Church,Male,Poland,Researcher,1920,2005
+Piet Kraak,Dutch footballer (1921-1984),Male,Kingdom of the Netherlands,Athlete,1921,1984
+Georges Brassens,French singer-songwriter and poet,Male,France,Artist,1921,1981
+Andrei Sakharov,Soviet nuclear physicist and human rights activist,Male,Soviet Union; Russian Soviet Federative Socialist Republic,Researcher,1921,1989
+Brownie Mary,American medical cannabis activist,Female,United States of America,Activist,1922,1999
+Boutros Boutros-Ghali,6th Secretary-General of the United Nations (1922-2016),Male,Egypt,Artist,1922,2016
+Primo Nebiolo,Italian sports official and IAAF president,Male,Italy; Kingdom of Italy,Athlete,1923,1999
+Laurent Dauthuille,French boxer,Male,France,Athlete,1924,1971
+Charles Aznavour,Armenian-French singer and diplomat,Male,France; Armenia,Artist,1924,2018
+Piet Roozenburg,Dutch draughts player,Male,Kingdom of the Netherlands,Athlete,1924,2003
+Elder Paisios of Mount Athos,Greek Eastern Orthodox monk,Male,Greece; Turkey,Monk; ascetic,1924,1994
+Rudolf Feustel,German archaeologist,,Germany,Researcher,1925,2018
+Joan Lorring,Hong Kong-born American actress (1926-2014),Female,United States of America,Artist,1926,2014
+Allen Ginsberg,American poet,Male,United States of America,Artist,1926,1997
+Jack Brabham,Australian racing driver,Male,Australia,Athlete,1926,2014
+Valéry Giscard d'Estaing,French official and statesman (1926–2020),Male,France,Statesperson,1926,2020
+Phil Hill,American race car driver,Male,United States of America,Racing automobile driver; formula one driver,1927,2008
+Harry Mulisch,Dutch writer,Male,Kingdom of the Netherlands,Artist,1927,2010
+Livia Ana Tătaru,German linguist,,Romania,Researcher,1927,2018
+Andy Warhol,American artist and film director and producer (1928-1987),Male,United States of America,Artist,1928,1987
+Stanley Kubrick,American filmmaker,Male,United States of America,Athlete,1928,1999
+Manfred Gerlach,German jurist and politician (1928-2011),Male,Germany; German Democratic Republic,Politician,1928,2011
+James Coburn,American actor,Male,United States of America,Artist,1928,2002
+Francesco Cossiga,8th President of Italy (1928-2010),Male,Italy; Kingdom of Italy,Politician,1928,2010
+Che Guevara,Argentine Marxist revolutionary,Male,Cuba; Argentina,Athlete,1928,1967
+Anne Frank,German-born diarist and Holocaust victim (1929-1945),Female,Germany,Artist,1929,1945
+Chet Baker,American jazz trumpeter and vocalist (1929-1988),Male,United States of America,Artist,1929,1988
+Grace Kelly,American actress and Princess consort of Monaco,Female,United States of America; Monaco,Artist,1929,1982
+Jacques Brel,Belgian singer-songwriter,Male,Belgium,Artist,1929,1978
+Graham Hill,British racing driver,Male,United Kingdom,Engineer,1929,1975
+Mike Hawthorn,British racing driver,Male,United Kingdom,Formula one driver,1929,1959
+Neil Armstrong,American astronaut and the first human to walk on the moon,Male,United States of America,Teacher,1930,2012
+Sean Connery,Scottish actor (1930–2020),Male,United Kingdom,Artist,1930,2020
+Helmut Kohl,Chancellor of West Germany and reunified Germany (1930–2017),Male,Germany; Nazi Germany; Weimar Republic; West Germany,Researcher,1930,2017
+Barbara,French recording artist; singer-songwriter,Female,France,Artist,1930,1997
+Johannes Rau,President of Germany from 1 July 1999 until 30 July 2004,Male,Germany,Politician,1931,2006
+Jacques Chirac,French statesman and official (1932–2019),Male,France,Politician,1932,2019
+Allen Sheppard,industrialist (1932-2015),Male,United Kingdom,Author,1932,2015
+Corazon Aquino,Philippine politician and President (1933-2009),Female,Philippines,Politician,1933,2009
+Rufus R. Jones,American professional wrestler (1933-1993),Male,United States of America,Artist,1933,1993
+Roman Herzog,former President of the Federal Republic of Germany (1934-2017),Male,Germany,Politician,1934,2017
+John Surtees,British motorcycle and automobile racer,Male,United Kingdom,Athlete,1934,2017
+Leonard Cohen,Canadian poet and singer-songwriter,Male,Canada,Artist,1934,2016
+Françoise Sagan,French writer,Female,France,Artist,1935,2004
+Elvis Presley,American singer and actor (1935–1977),Male,United States of America,Artist,1935,1977
+Denny Hulme,New Zealand racing driver,Male,New Zealand,Racing automobile driver; formula one driver,1936,1992
+Buddy Holly,American singer-songwriter,Male,United States of America,Artist,1936,1959
+Jim Clark,British racecar driver,Male,United Kingdom,Farmer; formula one driver,1936,1968
+Saddam Hussein,Iraqi politician and President,Male,Iraq,Politician,1937,2006
+Franc Gubenšek,Slovene biochemist,Male,Slovenia; Socialist Federal Republic of Yugoslavia; Kingdom of Yugoslavia,Researcher,1937,2010
+J. Bernlef,Dutch writer and translator,Male,Kingdom of the Netherlands,Artist,1937,2012
+Kofi Annan,7th Secretary-General of the United Nations (1938-2018),Male,Ghana,Politician,1938,2018
+Eddie Cochran,American rock and roll pioneer,Male,United States of America,Artist,1938,1960
+Pierre Desproges,French humorist,Male,France,Artist,1939,1988
+Joseph Brodsky,Russian-American poet,Male,United States of America; Soviet Union,Artist,1940,1996
+Jochen Rindt,Austrian racing driver,Male,Austria; Germany,Racing automobile driver; formula one driver,1942,1970
+George Harrison,British musician and lead guitarist of the Beatles (1943-2001),Male,United Kingdom,Artist,1943,2001
+Janis Joplin,American singer and songwriter,Female,United States of America,Artist,1943,1970
+Coluche,French comedian and actor,Male,France,Artist,1944,1986
+Rajiv Gandhi,sixth Prime Minister of India (1944-1991),Male,India; British Raj,Politician,1944,1991
+Patrick Ricard,French entrepreneur and CEO,Male,France,Business executive,1945,2012
+Dave Arneson,American game designer,Male,United States of America,Game designer; role-playing game designer,1947,2009
+Roy Budd,British jazz musician and composer,Male,United Kingdom,Artist,1947,1993
+Yves Mariot,French professional football striker (1948-2000),Male,France,Athlete,1948,2000
+Mohamed Morsi,5th President of Egypt (1951-2019),Male,Egypt,Politician,1951,2019
+Pietro Mennea,Italian sprinter and politician (1952-2013),Male,Italy,Athlete,1952,2013
+Douglas Adams,English writer and humorist,Male,United Kingdom,Artist,1952,2001
+Daniel Balavoine,French recording artist; singer-songwriter,Male,France,Artist,1952,1986
+Osama bin Laden,Saudi Arabian founder of al-Qaeda,Male,Saudi Arabia; statelessness,Businessperson,1957,2011
+Michael Jackson,American recording artist; singer and songwriter (1958-2009),Male,United States of America,Athlete,1958,2009
+David Cairns,Scottish Labour Party politician (1966-2011),Male,United Kingdom,Politician,1966,2011
+Tupac Shakur,American rapper (1971–1996),Male,United States of America,Artist,1971,1996
